@@ -241,6 +241,7 @@ public class MainActivity extends AppCompatActivity {
         android:duration="5000" >
     </rotate>
 </set>
+```
 ## fade.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -259,6 +260,7 @@ public class MainActivity extends AppCompatActivity {
         android:toAlpha="0" />
 
 </set>
+```
 ## blink.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
