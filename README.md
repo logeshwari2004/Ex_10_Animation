@@ -260,7 +260,7 @@ public class MainActivity extends AppCompatActivity {
 
 </set>
 ## blink.xml
-``
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha android:fromAlpha="0.0"
