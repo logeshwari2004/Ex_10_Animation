@@ -6,6 +6,7 @@ To create and design an android application that perform different animations fo
 
 ## EQUIPMENTS REQUIRED:
 
+
 Android Studio(Min. required Artic Fox)
 
 
